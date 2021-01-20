@@ -1,1 +1,1 @@
-# auto_wahatsapp
+# automation_in_wahatsapp
