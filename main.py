@@ -1,5 +1,5 @@
 # import pywhatkit as kit
-# kit.sendwhatmsg("+916267512533", "I love studytonight.com!", 15, 25)
+# kit.sendwhatmsg("+91***********", "I love you!", 15, 25)
 import pyautogui
 import time
 message = 5
